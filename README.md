@@ -1,6 +1,6 @@
 # knp
 
-A Workflow to automate the Landsat-8 image masking and retrieving of vegetation indices by means of EASI Modelling in Python 2.7 (PCI Geomatics).
+A Workflow to automate the Landsat-8 image masking and retrieving of vegetation indices by means of EASI Modelling in Python 2.7 (PCI Geomatics 2018, tested with version 2018 2018-09-27).
 This Workflow includes follow steps
 - cloud and water masking based on PQA file (main.py)
 - mosaicking of different paths (main.py)
