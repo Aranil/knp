@@ -1,6 +1,6 @@
 # knp
 
-A Workflow to automate Landsat-8 image processing and calculation of vegetation indices by means of EASI Modelling (Python 2.7, PCI Geomatics 2018).
+This workflow was developed to automate the processing of Landsat-8 images and calculation of vegetation indices using EASI Modelling in Python 2.7 and PCI Geomatics 2018. The project was undertaken during internship at Friedrich-Schiller-University Jena and the Centre for Geographical Analysis at Stellenbosch University, from September 2, 2017, to February 8, 2018.
 
 This Workflow includes follow steps
 - cloud and water masking based on PQA file (main.py)
@@ -8,6 +8,4 @@ This Workflow includes follow steps
 - calculation of indices (indices.py) 
 - export as GeoTiff file
 
-This work was done in frame of the internship at Friedrich-Schiller-University Jena (& Centre for Geographical Analysis (CGA), Stellenbosch University) from 02.09.2017 until 08.02.2018.
-
-Many thanks to Chris Coetzee (chriscz) for teaching me Python and contributing to this project.
+Acknowledgements: Special thanks to Chris Coetzee (chriscz) for his guidance in Python programming and contributions to this project.
